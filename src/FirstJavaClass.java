@@ -60,7 +60,15 @@ public class FirstJavaClass {
                 *git push
                 ***********************************************
         HOW TO PULL THE CODE FROM GITHUB TO LOCAL COMPUTER
-
+        *Create a new file : test_file.txt
+        *Add some comments :
+        Do not delete this file.
+        This file is Ms. Filiz's code
+        *Commit new file
+        ***Now we created a file in github
+        We will get that code from github to intelliJ.
+        In intelliJ terminal write below commend to pull the code
+        *git pull
          */
 
 
